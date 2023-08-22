@@ -7,7 +7,7 @@ This Portfolio is a sample of projects I have done for data analysis and explori
 ### Filling in Missing Values in Datasets
 [GitHub](/RProjects/missingValues.md)
 
-One common problem in biological datasets is that of having missing values. In particular, humans have a lot of trouble determing bird sex. So, I tasked myself with creating a classifier and using feature extraction to be able to predict bird sex. The algorithm outperformed random assignement by a factor greater than ten in most cases.
+One common problem in biological datasets is that of having missing values. In particular, humans have a lot of trouble determing bird sex. So, I tasked myself with creating a classifier and using feature extraction to be able to predict bird sex. The algorithm outperformed random assignement by a factor greater than 10 in most cases.
 
 ## Project in Python
 
