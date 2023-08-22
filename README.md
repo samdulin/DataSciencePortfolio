@@ -16,7 +16,11 @@ This dataset is infant mortality death collected for the years 2007-2016 in New 
 
 ## Projects in Python
 
-### Deep Learning for Forest Fire Prediction
+### Machine Learning for Forest Fire Prediction
+[GitHub](/PythonProjects/forest_fires.ipynb)
+[nbviewer](https://nbviewer.org/github/samdulin/DataSciencePortfolio/blob/main/PythonProjects/forest_fires.ipynb)
+
+This dataset is 519 observations of forest fires in Portugal. We compare deep learning, random forest regression, and support vector regression models at predicting the x and y spatial coordinates of the forest fires. All three of the models had a significantly smaller mean abosulte error than the SVM model used by Cortez and Morais in their original paper on this dataset from 2007 (https://core.ac.uk/download/pdf/55609027.pdf).
 
 ## Projects in MATLAB
 
