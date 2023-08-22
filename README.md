@@ -26,7 +26,7 @@ This dataset is infant mortality death collected for the years 2007-2016 in New 
 
 ### Optimal Transport
 
-In packages like SciPy, the Wasserstein distance can be measured in the 1D case. But what if we want to measure it in 2 dimensions? The algorithm used here to do so is based on the work done by Cui, Dieci, and Zhao in their paper: https://arxiv.org/pdf/2105.09502.pdf
+In packages like SciPy, the Wasserstein distance can be measured in the 1D case. But what if we want to measure it in 2 dimensions? The algorithm used here to do so is based on the work done by Cui, Dieci, and Zhao in their paper: https://arxiv.org/pdf/2105.09502.pdf. This code was a joint effort with Scott McIntyre.
 
 In particular, the algorithm computes the 'optimal transport'. The question can be phrased as follows: if we have a pile of sand, what is the most efficient way to move that sand so as to make a sand castle? The 'optimal transport' is the answer to that problem. Optimal transport has a rich history, and is finding increasingly more applications in machine learning.
 
