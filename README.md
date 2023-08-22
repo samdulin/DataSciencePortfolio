@@ -25,6 +25,7 @@ This dataset is infant mortality death collected for the years 2007-2016 in New 
 ## Projects in MATLAB
 
 ### Optimal Transport
+[GitHub](/MATLABProjects/BVP_OT_multi.m)
 
 In packages like SciPy, the Wasserstein distance can be measured in the 1D case. But what if we want to measure it in 2 dimensions? The algorithm used here to do so is based on the work done by Cui, Dieci, and Zhao in their paper: https://arxiv.org/pdf/2105.09502.pdf. This code was a joint effort with Scott McIntyre.
 
