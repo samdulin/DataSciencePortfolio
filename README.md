@@ -14,7 +14,9 @@ One common problem in biological datasets is that of having missing values. In p
 
 This dataset is infant mortality death collected for the years 2007-2016 in New York City. I analyze the relationship between race and infant mortality rate using various statistical visaulizations. I also explore the relationship between the type of infant death and race using a chi-square test.
 
-## Project in Python
+## Projects in Python
 
-## Deep Learning for Forest Fire Prediction
+### Deep Learning for Forest Fire Prediction
+
+## Projects in MATLAB
 
