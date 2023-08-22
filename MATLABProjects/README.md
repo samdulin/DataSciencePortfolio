@@ -1,1 +1,1 @@
-The algorithm used here is based on the work of Cui, Dieci, and Zhao in their paper: https://arxiv.org/pdf/2105.09502.pdf. Many thanks to them for their guidance and support.
+The algorithm used here is based on the work of Cui, Dieci, and Zhao in their paper: https://arxiv.org/pdf/2105.09502.pdf. Many thanks to them for their guidance and support. This code was a joint effort with Scott McIntyre.
