@@ -11,6 +11,7 @@ One common problem in biological datasets is that of having missing values. In p
 
 ### Statistical Study of Infant Mortality Death in NYC
 [GitHub](/RProjects/InfantMortalityStudy.md)
+
 This dataset is infant mortality death collected for the years 2007-2016 in New York City. I analyze the relationship between race and infant mortality rate using various statistical visaulizations. I also explore the relationship between the type of infant death and race using a chi-square test.
 
 ## Project in Python
