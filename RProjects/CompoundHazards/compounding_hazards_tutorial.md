@@ -291,7 +291,7 @@ b <- boxcox(model,
             ylab = "log-Likelihood")
 ```
 
-![](compounding_hazards_demo_files/figure-markdown_github/cars-1.png)
+![](https://github.com/samdulin/DataSciencePortfolio/blob/main/RProjects/CompoundHazards/cars-1.png)
 
 ``` r
 lambda <- b$x[which.max(b$y)]
