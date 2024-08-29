@@ -1,6 +1,6 @@
 # Project Portfolio for Sam Dulin
 
-This Portfolio is a small sample of research and coding projects I have worked on. They are a mixture of Python, R, and MATLAB. The demo for compounding weather hazards is work I have done while at USACE (paper forthcoming), the Optimal Transport project was part of a research project I completed at Georgia Tech, and the rest of the projects in here are a hodge-podge of recreational projects I thought were interesting. 
+This Portfolio is a small sample of research and coding projects I have worked on. They are a mixture of Python, R, and MATLAB. The demo for compounding weather hazards is work I have done with the U.S. Army Research and Design Center(paper forthcoming), the Optimal Transport project was part of a research project I completed at Georgia Tech one summer, and the rest of the projects in here are a hodge-podge of recreational projects I thought were interesting. 
 
 ## Projects in Python
 
