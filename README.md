@@ -12,10 +12,15 @@ This dataset is 519 observations of forest fires in Portugal. We compare deep le
 
 ## Projects in R
 
+### Quantifying Compounding Hazards Demo
+[GitHub](/RProjects/CompoundHazards/compounding_hazards_tutorial.md)
+
+Compounding effects from sequences of natural hazards often amplify the magnitude and complexity of disruptions, posing profound challenges to infrastructure. Despite ongoing theoretical discussions and literature exploring the ramifications of such events, there is a pressing need to comprehensively quantify the associated risks. The process to quantify a natural hazard pairs has three steps: basic data cleaning, multiple imputation, and then a Bayesian regression model. This demo is intended to give an overview of the project by walking through a single example of the model for quantifying the impact of wildfires on floods in southern California. This work was a collaboration with M. Smith, B. Ellinport, B. Trump, J. Keenan, and I. Linkov.
+
 ### Filling in Missing Values Using Classifiers
 [GitHub](/RProjects/missingValues.md)
 
-One common problem in biological datasets is that of having missing values. In particular, humans have a lot of trouble determing bird sex. So, I tasked myself with creating a classifier and using feature extraction to be able to predict bird sex. The algorithm outperformed random assignement by a factor greater than 10 in most cases.
+One common problem in biological datasets is that of having missing values. In particular, humans have a lot of trouble determing bird sex. There are a variety of statistical methods to deal with this, which I have written about in my [blog](https://samdulin.wordpress.com/2024/05/30/missing-data-the-good-the-bad-and-the-ugly/). In the case where we wanted one specific value, however, I tasked myself with creating a classifier and using feature extraction to be able to predict bird sex. The algorithm outperformed random assignement by a factor greater than 10 in most cases.
 
 ### Statistical Study of Infant Mortality Death in NYC
 [GitHub](/RProjects/InfantMortalityStudy.md)
