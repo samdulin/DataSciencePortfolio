@@ -291,7 +291,7 @@ b <- boxcox(model,
             ylab = "log-Likelihood")
 ```
 
-![](https://github.com/samdulin/DataSciencePortfolio/blob/main/RProjects/CompoundHazards/cars-1.png)
+![](https://github.com/samdulin/DataSciencePortfolio/blob/main/RProjects/CompoundHazards/boxcox.png)
 
 ``` r
 lambda <- b$x[which.max(b$y)]
@@ -449,14 +449,14 @@ model <- brm_multiple(bf(Damage ~ Precursor + duration + population_density + to
 
     ## Using 10 posterior draws for ppc type 'dens_overlay' by default.
 
-![](compounding_hazards_demo_files/figure-markdown_github/pressure-1.png)
+![](https://github.com/samdulin/DataSciencePortfolio/blob/main/RProjects/CompoundHazards/posterior_check.png)
 
 ``` r
   # These are the conditional effects of compounding events
   print(plot(conditional_effects(model, effects = "Precursor")))
 ```
 
-![](compounding_hazards_demo_files/figure-markdown_github/pressure-2.png)
+![](https://github.com/samdulin/DataSciencePortfolio/blob/main/RProjects/CompoundHazards/marginal_effect.png)
 
     ## $Precursor
 
