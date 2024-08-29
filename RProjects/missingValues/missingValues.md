@@ -222,7 +222,7 @@ y_pred = predict(nb, newdata = test_set[,-1])
 points(grid_set, pch = 21, bg = ifelse(y_pred == 1, 'orange', 'blue'))
 ```
 
-![](missingValues_files/figure-gfm/LDA-1.png)<!-- -->
+![](https://github.com/samdulin/DataSciencePortfolio/blob/main/RProjects/missingValues/LDA-1.png)<!-- -->
 
 ``` r
 # Run models using LDA
@@ -310,7 +310,7 @@ y_pred = predict(nb, newdata = test_set[,-1])
 points(grid_set, pch = 21, bg = ifelse(y_pred == 1, 'orange', 'blue'))
 ```
 
-![](missingValues_files/figure-gfm/PCA-1.png)<!-- -->
+![](https://github.com/samdulin/DataSciencePortfolio/blob/main/RProjects/missingValues/PCA-1.png)<!-- -->
 
 ``` r
 # Run models before using PCA
