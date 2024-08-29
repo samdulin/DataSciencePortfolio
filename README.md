@@ -1,6 +1,6 @@
 # Data Science Portfolio for Sam Dulin
 
-This Portfolio is a sample of projects I have done for data analysis and exploring machine learning algorithms. They are a mixture of Python, R, and MATLAB. 
+This Portfolio is a sample of projects I have done. They are a mixture of Python, R, and MATLAB. The demo for compounding weather hazards is work I have done while at USACE (paper forthcoming), the Optimal Transport project was part of a research project I completed at Georgia Tech, and the rest of the projects in here are a hodge-podge of recreational projects I thought were interesting. 
 
 ## Projects in Python
 
