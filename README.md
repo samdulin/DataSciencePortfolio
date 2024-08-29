@@ -12,7 +12,7 @@ This dataset is 519 observations of forest fires in Portugal. We compare deep le
 
 ## Projects in R
 
-### Quantifying Compounding Hazards Demo
+### Quantifying Compounding Effects on Infrastructure Damage Demo
 [GitHub](/RProjects/CompoundHazards/compounding_hazards_tutorial.md)
 
 Compounding effects from sequences of natural hazards often amplify the magnitude and complexity of disruptions, posing profound challenges to infrastructure. Despite ongoing theoretical discussions and literature exploring the ramifications of such events, there is a pressing need to comprehensively quantify the associated risks. The process to quantify a natural hazard pairs has three steps: basic data cleaning, multiple imputation, and then a Bayesian regression model. This demo is intended to give an overview of the project by walking through a single example of the model for quantifying the impact of wildfires on floods in southern California. This work was a collaboration with M. Smith, B. Ellinport, B. Trump, J. Keenan, and I. Linkov.
